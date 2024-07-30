@@ -1,6 +1,10 @@
 what is regression
 Regression in machine learning is supervised learning technique used to
 predict a continuous outcome based on one or more input features.
+
+1.Simple Linear regression
+use when one indepent varriable is available to predict dependent variable
+
 #Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
@@ -33,4 +37,3 @@ plt.xlabel('Years of Experience')
 plt.ylabel('Salary')
 plt.show()
 
-linear regression
